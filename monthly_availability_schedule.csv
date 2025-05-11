@@ -1,0 +1,361 @@
+Day,Shift,Role,Available Employees,Unavailable Employees
+1,Morning,Kitchen Staff,"Mark, Jake","Emma, John, Alice"
+1,Morning,Servers,"Max, Lily",Sarah
+1,Morning,Managers,"Tom, Emma",Lily
+1,Morning,Cleaners,"Jake, Max",Jane
+1,Afternoon,Kitchen Staff,"Jake, John","Emma, Alice, Mark"
+1,Afternoon,Servers,"Sarah, Max",Lily
+1,Afternoon,Managers,"Tom, Lily",Emma
+1,Afternoon,Cleaners,"Max, Jake",Jane
+1,Evening,Kitchen Staff,"Alice, Mark","Jake, Emma, John"
+1,Evening,Servers,"Sarah, Lily",Max
+1,Evening,Managers,"Emma, Tom",Lily
+1,Evening,Cleaners,"Jake, Jane",Max
+2,Morning,Kitchen Staff,"Alice, Mark","Jake, Emma, John"
+2,Morning,Servers,"Lily, Sarah",Max
+2,Morning,Managers,"Lily, Tom",Emma
+2,Morning,Cleaners,"Max, Jane",Jake
+2,Afternoon,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+2,Afternoon,Servers,"Lily, Max",Sarah
+2,Afternoon,Managers,"Lily, Tom",Emma
+2,Afternoon,Cleaners,"Jane, Max",Jake
+2,Evening,Kitchen Staff,"Emma, Mark","Jake, John, Alice"
+2,Evening,Servers,"Max, Sarah",Lily
+2,Evening,Managers,"Tom, Lily",Emma
+2,Evening,Cleaners,"Jane, Jake",Max
+3,Morning,Kitchen Staff,"Mark, Emma","Jake, John, Alice"
+3,Morning,Servers,"Max, Lily",Sarah
+3,Morning,Managers,"Tom, Emma",Lily
+3,Morning,Cleaners,"Max, Jane",Jake
+3,Afternoon,Kitchen Staff,"Alice, John","Jake, Emma, Mark"
+3,Afternoon,Servers,"Sarah, Max",Lily
+3,Afternoon,Managers,"Emma, Lily",Tom
+3,Afternoon,Cleaners,"Jake, Max",Jane
+3,Evening,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+3,Evening,Servers,"Sarah, Lily",Max
+3,Evening,Managers,"Lily, Emma",Tom
+3,Evening,Cleaners,"Jake, Max",Jane
+4,Morning,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+4,Morning,Servers,"Sarah, Max",Lily
+4,Morning,Managers,"Emma, Tom",Lily
+4,Morning,Cleaners,"Jake, Jane",Max
+4,Afternoon,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+4,Afternoon,Servers,"Lily, Sarah",Max
+4,Afternoon,Managers,"Tom, Emma",Lily
+4,Afternoon,Cleaners,"Max, Jake",Jane
+4,Evening,Kitchen Staff,"Emma, John","Jake, Alice, Mark"
+4,Evening,Servers,"Lily, Max",Sarah
+4,Evening,Managers,"Lily, Tom",Emma
+4,Evening,Cleaners,"Jane, Jake",Max
+5,Morning,Kitchen Staff,"Mark, Alice","Jake, Emma, John"
+5,Morning,Servers,"Sarah, Max",Lily
+5,Morning,Managers,"Emma, Tom",Lily
+5,Morning,Cleaners,"Jane, Max",Jake
+5,Afternoon,Kitchen Staff,"Emma, Jake","John, Alice, Mark"
+5,Afternoon,Servers,"Sarah, Lily",Max
+5,Afternoon,Managers,"Lily, Emma",Tom
+5,Afternoon,Cleaners,"Jake, Jane",Max
+5,Evening,Kitchen Staff,"John, Alice","Jake, Emma, Mark"
+5,Evening,Servers,"Lily, Max",Sarah
+5,Evening,Managers,"Emma, Tom",Lily
+5,Evening,Cleaners,"Max, Jane",Jake
+6,Morning,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+6,Morning,Servers,"Max, Sarah",Lily
+6,Morning,Managers,"Tom, Emma",Lily
+6,Morning,Cleaners,"Jane, Jake",Max
+6,Afternoon,Kitchen Staff,"Emma, Alice","Jake, John, Mark"
+6,Afternoon,Servers,"Max, Sarah",Lily
+6,Afternoon,Managers,"Emma, Lily",Tom
+6,Afternoon,Cleaners,"Jane, Jake",Max
+6,Evening,Kitchen Staff,"Mark, Alice","Jake, Emma, John"
+6,Evening,Servers,"Lily, Max",Sarah
+6,Evening,Managers,"Lily, Tom",Emma
+6,Evening,Cleaners,"Max, Jake",Jane
+7,Morning,Kitchen Staff,"Emma, Jake","John, Alice, Mark"
+7,Morning,Servers,"Sarah, Max",Lily
+7,Morning,Managers,"Lily, Emma",Tom
+7,Morning,Cleaners,"Max, Jane",Jake
+7,Afternoon,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+7,Afternoon,Servers,"Sarah, Max",Lily
+7,Afternoon,Managers,"Emma, Lily",Tom
+7,Afternoon,Cleaners,"Jake, Max",Jane
+7,Evening,Kitchen Staff,"Jake, Emma","John, Alice, Mark"
+7,Evening,Servers,"Sarah, Max",Lily
+7,Evening,Managers,"Tom, Lily",Emma
+7,Evening,Cleaners,"Jake, Max",Jane
+8,Morning,Kitchen Staff,"Mark, John","Jake, Emma, Alice"
+8,Morning,Servers,"Max, Lily",Sarah
+8,Morning,Managers,"Lily, Emma",Tom
+8,Morning,Cleaners,"Jane, Jake",Max
+8,Afternoon,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+8,Afternoon,Servers,"Sarah, Lily",Max
+8,Afternoon,Managers,"Lily, Emma",Tom
+8,Afternoon,Cleaners,"Jake, Jane",Max
+8,Evening,Kitchen Staff,"Mark, John","Jake, Emma, Alice"
+8,Evening,Servers,"Sarah, Lily",Max
+8,Evening,Managers,"Lily, Tom",Emma
+8,Evening,Cleaners,"Jake, Jane",Max
+9,Morning,Kitchen Staff,"Alice, John","Jake, Emma, Mark"
+9,Morning,Servers,"Max, Sarah",Lily
+9,Morning,Managers,"Emma, Tom",Lily
+9,Morning,Cleaners,"Jane, Jake",Max
+9,Afternoon,Kitchen Staff,"Jake, Mark","Emma, John, Alice"
+9,Afternoon,Servers,"Sarah, Max",Lily
+9,Afternoon,Managers,"Tom, Lily",Emma
+9,Afternoon,Cleaners,"Max, Jake",Jane
+9,Evening,Kitchen Staff,"Jake, Emma","John, Alice, Mark"
+9,Evening,Servers,"Lily, Sarah",Max
+9,Evening,Managers,"Emma, Lily",Tom
+9,Evening,Cleaners,"Jane, Max",Jake
+10,Morning,Kitchen Staff,"Emma, Mark","Jake, John, Alice"
+10,Morning,Servers,"Lily, Max",Sarah
+10,Morning,Managers,"Lily, Tom",Emma
+10,Morning,Cleaners,"Jake, Max",Jane
+10,Afternoon,Kitchen Staff,"Alice, Emma","Jake, John, Mark"
+10,Afternoon,Servers,"Max, Lily",Sarah
+10,Afternoon,Managers,"Lily, Emma",Tom
+10,Afternoon,Cleaners,"Jake, Max",Jane
+10,Evening,Kitchen Staff,"Jake, John","Emma, Alice, Mark"
+10,Evening,Servers,"Sarah, Lily",Max
+10,Evening,Managers,"Tom, Lily",Emma
+10,Evening,Cleaners,"Jake, Jane",Max
+11,Morning,Kitchen Staff,"Emma, Mark","Jake, John, Alice"
+11,Morning,Servers,"Sarah, Lily",Max
+11,Morning,Managers,"Emma, Tom",Lily
+11,Morning,Cleaners,"Max, Jake",Jane
+11,Afternoon,Kitchen Staff,"Alice, Mark","Jake, Emma, John"
+11,Afternoon,Servers,"Lily, Max",Sarah
+11,Afternoon,Managers,"Lily, Emma",Tom
+11,Afternoon,Cleaners,"Max, Jake",Jane
+11,Evening,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+11,Evening,Servers,"Max, Lily",Sarah
+11,Evening,Managers,"Tom, Emma",Lily
+11,Evening,Cleaners,"Max, Jake",Jane
+12,Morning,Kitchen Staff,"Emma, Mark","Jake, John, Alice"
+12,Morning,Servers,"Sarah, Lily",Max
+12,Morning,Managers,"Tom, Lily",Emma
+12,Morning,Cleaners,"Jake, Jane",Max
+12,Afternoon,Kitchen Staff,"Emma, Jake","John, Alice, Mark"
+12,Afternoon,Servers,"Max, Lily",Sarah
+12,Afternoon,Managers,"Lily, Tom",Emma
+12,Afternoon,Cleaners,"Max, Jake",Jane
+12,Evening,Kitchen Staff,"Emma, John","Jake, Alice, Mark"
+12,Evening,Servers,"Max, Sarah",Lily
+12,Evening,Managers,"Tom, Emma",Lily
+12,Evening,Cleaners,"Jake, Jane",Max
+13,Morning,Kitchen Staff,"Emma, Mark","Jake, John, Alice"
+13,Morning,Servers,"Max, Sarah",Lily
+13,Morning,Managers,"Tom, Lily",Emma
+13,Morning,Cleaners,"Jake, Jane",Max
+13,Afternoon,Kitchen Staff,"Mark, Alice","Jake, Emma, John"
+13,Afternoon,Servers,"Lily, Max",Sarah
+13,Afternoon,Managers,"Tom, Lily",Emma
+13,Afternoon,Cleaners,"Max, Jane",Jake
+13,Evening,Kitchen Staff,"Emma, John","Jake, Alice, Mark"
+13,Evening,Servers,"Max, Lily",Sarah
+13,Evening,Managers,"Tom, Lily",Emma
+13,Evening,Cleaners,"Max, Jake",Jane
+14,Morning,Kitchen Staff,"John, Emma","Jake, Alice, Mark"
+14,Morning,Servers,"Sarah, Max",Lily
+14,Morning,Managers,"Tom, Emma",Lily
+14,Morning,Cleaners,"Jake, Max",Jane
+14,Afternoon,Kitchen Staff,"Emma, Jake","John, Alice, Mark"
+14,Afternoon,Servers,"Lily, Sarah",Max
+14,Afternoon,Managers,"Tom, Emma",Lily
+14,Afternoon,Cleaners,"Jake, Max",Jane
+14,Evening,Kitchen Staff,"Emma, John","Jake, Alice, Mark"
+14,Evening,Servers,"Sarah, Max",Lily
+14,Evening,Managers,"Tom, Lily",Emma
+14,Evening,Cleaners,"Jake, Max",Jane
+15,Morning,Kitchen Staff,"Mark, Jake","Emma, John, Alice"
+15,Morning,Servers,"Max, Lily",Sarah
+15,Morning,Managers,"Lily, Emma",Tom
+15,Morning,Cleaners,"Jane, Max",Jake
+15,Afternoon,Kitchen Staff,"Jake, Mark","Emma, John, Alice"
+15,Afternoon,Servers,"Lily, Max",Sarah
+15,Afternoon,Managers,"Emma, Lily",Tom
+15,Afternoon,Cleaners,"Max, Jake",Jane
+15,Evening,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+15,Evening,Servers,"Sarah, Lily",Max
+15,Evening,Managers,"Emma, Tom",Lily
+15,Evening,Cleaners,"Jane, Max",Jake
+16,Morning,Kitchen Staff,"John, Emma","Jake, Alice, Mark"
+16,Morning,Servers,"Max, Lily",Sarah
+16,Morning,Managers,"Tom, Lily",Emma
+16,Morning,Cleaners,"Jane, Max",Jake
+16,Afternoon,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+16,Afternoon,Servers,"Max, Lily",Sarah
+16,Afternoon,Managers,"Emma, Lily",Tom
+16,Afternoon,Cleaners,"Max, Jake",Jane
+16,Evening,Kitchen Staff,"John, Emma","Jake, Alice, Mark"
+16,Evening,Servers,"Sarah, Max",Lily
+16,Evening,Managers,"Lily, Emma",Tom
+16,Evening,Cleaners,"Max, Jake",Jane
+17,Morning,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+17,Morning,Servers,"Max, Lily",Sarah
+17,Morning,Managers,"Emma, Lily",Tom
+17,Morning,Cleaners,"Jake, Jane",Max
+17,Afternoon,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+17,Afternoon,Servers,"Lily, Max",Sarah
+17,Afternoon,Managers,"Emma, Lily",Tom
+17,Afternoon,Cleaners,"Jake, Jane",Max
+17,Evening,Kitchen Staff,"John, Emma","Jake, Alice, Mark"
+17,Evening,Servers,"Max, Sarah",Lily
+17,Evening,Managers,"Lily, Emma",Tom
+17,Evening,Cleaners,"Max, Jake",Jane
+18,Morning,Kitchen Staff,"Mark, John","Jake, Emma, Alice"
+18,Morning,Servers,"Max, Lily",Sarah
+18,Morning,Managers,"Emma, Tom",Lily
+18,Morning,Cleaners,"Jake, Max",Jane
+18,Afternoon,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+18,Afternoon,Servers,"Sarah, Lily",Max
+18,Afternoon,Managers,"Lily, Emma",Tom
+18,Afternoon,Cleaners,"Jake, Jane",Max
+18,Evening,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+18,Evening,Servers,"Sarah, Lily",Max
+18,Evening,Managers,"Tom, Emma",Lily
+18,Evening,Cleaners,"Jake, Jane",Max
+19,Morning,Kitchen Staff,"Emma, Mark","Jake, John, Alice"
+19,Morning,Servers,"Sarah, Max",Lily
+19,Morning,Managers,"Emma, Lily",Tom
+19,Morning,Cleaners,"Max, Jane",Jake
+19,Afternoon,Kitchen Staff,"John, Jake","Emma, Alice, Mark"
+19,Afternoon,Servers,"Max, Sarah",Lily
+19,Afternoon,Managers,"Lily, Tom",Emma
+19,Afternoon,Cleaners,"Max, Jane",Jake
+19,Evening,Kitchen Staff,"Mark, Jake","Emma, John, Alice"
+19,Evening,Servers,"Max, Lily",Sarah
+19,Evening,Managers,"Tom, Lily",Emma
+19,Evening,Cleaners,"Jake, Max",Jane
+20,Morning,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+20,Morning,Servers,"Lily, Sarah",Max
+20,Morning,Managers,"Tom, Lily",Emma
+20,Morning,Cleaners,"Max, Jake",Jane
+20,Afternoon,Kitchen Staff,"Mark, Jake","Emma, John, Alice"
+20,Afternoon,Servers,"Lily, Max",Sarah
+20,Afternoon,Managers,"Emma, Lily",Tom
+20,Afternoon,Cleaners,"Max, Jake",Jane
+20,Evening,Kitchen Staff,"Mark, Alice","Jake, Emma, John"
+20,Evening,Servers,"Sarah, Max",Lily
+20,Evening,Managers,"Tom, Emma",Lily
+20,Evening,Cleaners,"Jake, Jane",Max
+21,Morning,Kitchen Staff,"Emma, John","Jake, Alice, Mark"
+21,Morning,Servers,"Sarah, Lily",Max
+21,Morning,Managers,"Lily, Tom",Emma
+21,Morning,Cleaners,"Jake, Max",Jane
+21,Afternoon,Kitchen Staff,"Jake, Mark","Emma, John, Alice"
+21,Afternoon,Servers,"Max, Sarah",Lily
+21,Afternoon,Managers,"Emma, Tom",Lily
+21,Afternoon,Cleaners,"Jane, Max",Jake
+21,Evening,Kitchen Staff,"Emma, Alice","Jake, John, Mark"
+21,Evening,Servers,"Lily, Max",Sarah
+21,Evening,Managers,"Lily, Emma",Tom
+21,Evening,Cleaners,"Jake, Jane",Max
+22,Morning,Kitchen Staff,"Alice, Emma","Jake, John, Mark"
+22,Morning,Servers,"Lily, Max",Sarah
+22,Morning,Managers,"Emma, Tom",Lily
+22,Morning,Cleaners,"Max, Jake",Jane
+22,Afternoon,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+22,Afternoon,Servers,"Sarah, Lily",Max
+22,Afternoon,Managers,"Lily, Emma",Tom
+22,Afternoon,Cleaners,"Max, Jane",Jake
+22,Evening,Kitchen Staff,"Alice, John","Jake, Emma, Mark"
+22,Evening,Servers,"Max, Sarah",Lily
+22,Evening,Managers,"Lily, Tom",Emma
+22,Evening,Cleaners,"Jane, Jake",Max
+23,Morning,Kitchen Staff,"Jake, Emma","John, Alice, Mark"
+23,Morning,Servers,"Sarah, Lily",Max
+23,Morning,Managers,"Tom, Lily",Emma
+23,Morning,Cleaners,"Jane, Jake",Max
+23,Afternoon,Kitchen Staff,"Alice, Mark","Jake, Emma, John"
+23,Afternoon,Servers,"Sarah, Max",Lily
+23,Afternoon,Managers,"Lily, Tom",Emma
+23,Afternoon,Cleaners,"Jane, Jake",Max
+23,Evening,Kitchen Staff,"Alice, John","Jake, Emma, Mark"
+23,Evening,Servers,"Sarah, Lily",Max
+23,Evening,Managers,"Emma, Tom",Lily
+23,Evening,Cleaners,"Max, Jane",Jake
+24,Morning,Kitchen Staff,"Alice, Emma","Jake, John, Mark"
+24,Morning,Servers,"Lily, Max",Sarah
+24,Morning,Managers,"Lily, Tom",Emma
+24,Morning,Cleaners,"Max, Jake",Jane
+24,Afternoon,Kitchen Staff,"Jake, John","Emma, Alice, Mark"
+24,Afternoon,Servers,"Lily, Max",Sarah
+24,Afternoon,Managers,"Emma, Tom",Lily
+24,Afternoon,Cleaners,"Max, Jake",Jane
+24,Evening,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+24,Evening,Servers,"Max, Lily",Sarah
+24,Evening,Managers,"Emma, Lily",Tom
+24,Evening,Cleaners,"Max, Jane",Jake
+25,Morning,Kitchen Staff,"Alice, Emma","Jake, John, Mark"
+25,Morning,Servers,"Max, Lily",Sarah
+25,Morning,Managers,"Tom, Emma",Lily
+25,Morning,Cleaners,"Jane, Jake",Max
+25,Afternoon,Kitchen Staff,"Jake, John","Emma, Alice, Mark"
+25,Afternoon,Servers,"Max, Lily",Sarah
+25,Afternoon,Managers,"Tom, Emma",Lily
+25,Afternoon,Cleaners,"Max, Jane",Jake
+25,Evening,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+25,Evening,Servers,"Max, Sarah",Lily
+25,Evening,Managers,"Tom, Emma",Lily
+25,Evening,Cleaners,"Jane, Jake",Max
+26,Morning,Kitchen Staff,"John, Jake","Emma, Alice, Mark"
+26,Morning,Servers,"Max, Sarah",Lily
+26,Morning,Managers,"Emma, Tom",Lily
+26,Morning,Cleaners,"Max, Jane",Jake
+26,Afternoon,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+26,Afternoon,Servers,"Max, Lily",Sarah
+26,Afternoon,Managers,"Tom, Lily",Emma
+26,Afternoon,Cleaners,"Max, Jake",Jane
+26,Evening,Kitchen Staff,"Alice, Jake","Emma, John, Mark"
+26,Evening,Servers,"Sarah, Max",Lily
+26,Evening,Managers,"Lily, Emma",Tom
+26,Evening,Cleaners,"Jane, Max",Jake
+27,Morning,Kitchen Staff,"Jake, Alice","Emma, John, Mark"
+27,Morning,Servers,"Sarah, Lily",Max
+27,Morning,Managers,"Emma, Tom",Lily
+27,Morning,Cleaners,"Jane, Max",Jake
+27,Afternoon,Kitchen Staff,"Jake, Emma","John, Alice, Mark"
+27,Afternoon,Servers,"Lily, Max",Sarah
+27,Afternoon,Managers,"Tom, Emma",Lily
+27,Afternoon,Cleaners,"Jake, Max",Jane
+27,Evening,Kitchen Staff,"Alice, Emma","Jake, John, Mark"
+27,Evening,Servers,"Sarah, Max",Lily
+27,Evening,Managers,"Lily, Tom",Emma
+27,Evening,Cleaners,"Jake, Jane",Max
+28,Morning,Kitchen Staff,"John, Mark","Jake, Emma, Alice"
+28,Morning,Servers,"Sarah, Max",Lily
+28,Morning,Managers,"Emma, Tom",Lily
+28,Morning,Cleaners,"Jake, Max",Jane
+28,Afternoon,Kitchen Staff,"John, Alice","Jake, Emma, Mark"
+28,Afternoon,Servers,"Sarah, Max",Lily
+28,Afternoon,Managers,"Lily, Emma",Tom
+28,Afternoon,Cleaners,"Jake, Max",Jane
+28,Evening,Kitchen Staff,"Alice, Mark","Jake, Emma, John"
+28,Evening,Servers,"Lily, Sarah",Max
+28,Evening,Managers,"Tom, Emma",Lily
+28,Evening,Cleaners,"Max, Jane",Jake
+29,Morning,Kitchen Staff,"Jake, Mark","Emma, John, Alice"
+29,Morning,Servers,"Max, Sarah",Lily
+29,Morning,Managers,"Emma, Tom",Lily
+29,Morning,Cleaners,"Max, Jake",Jane
+29,Afternoon,Kitchen Staff,"Emma, Alice","Jake, John, Mark"
+29,Afternoon,Servers,"Lily, Max",Sarah
+29,Afternoon,Managers,"Tom, Lily",Emma
+29,Afternoon,Cleaners,"Max, Jake",Jane
+29,Evening,Kitchen Staff,"Mark, John","Jake, Emma, Alice"
+29,Evening,Servers,"Sarah, Lily",Max
+29,Evening,Managers,"Lily, Tom",Emma
+29,Evening,Cleaners,"Jane, Max",Jake
+30,Morning,Kitchen Staff,"Jake, John","Emma, Alice, Mark"
+30,Morning,Servers,"Sarah, Max",Lily
+30,Morning,Managers,"Tom, Emma",Lily
+30,Morning,Cleaners,"Max, Jane",Jake
+30,Afternoon,Kitchen Staff,"Mark, Emma","Jake, John, Alice"
+30,Afternoon,Servers,"Sarah, Max",Lily
+30,Afternoon,Managers,"Lily, Tom",Emma
+30,Afternoon,Cleaners,"Jane, Max",Jake
+30,Evening,Kitchen Staff,"Mark, Alice","Jake, Emma, John"
+30,Evening,Servers,"Sarah, Max",Lily
+30,Evening,Managers,"Tom, Lily",Emma
+30,Evening,Cleaners,"Jane, Jake",Max
