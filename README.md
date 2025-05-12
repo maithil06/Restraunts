@@ -18,7 +18,7 @@ This project demonstrates a multi-agent system where specialized AI agents work 
 
 ## 📽️ Demo
 
-Check out the [demo video](https://github.com/maithil06/Restraunts/blob/main/LLM.mp4) (link to be added) to> to see the system in action! The demo highlights:
+Check out the [demo video](https://github.com/maithil06/Restraunts/blob/main/LLM.mp4) to see the system in action! The demo highlights:
 - Agents collaborating to clean and process data.
 - Real-time trend analysis and forecasting.
 - Financial summaries and transaction handling.
