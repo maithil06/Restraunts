@@ -24,6 +24,10 @@ Check out the [demo video](https://github.com/maithil06/Restraunts/blob/main/LLM
 - Financial summaries and transaction handling.
 - Labour cost calculations across teams.
 
+Alternatively, you can watch the demo by clicking the thumbnail below:
+
+[![Demo Video](https://github.com/maithil06/Restraunts/raw/main/demo_thumbnail.jpg)](https://github.com/maithil06/Restraunts/blob/main/LLM.mp4)
+
 ## 📊 Dataset
 
 The system uses a **dummy dataset** designed to simulate real-world scenarios. Key characteristics:
